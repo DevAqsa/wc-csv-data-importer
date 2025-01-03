@@ -1,0 +1,17 @@
+.wc-csv-importer .card {
+    max-width: 800px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.wc-csv-importer .form-table {
+    margin-top: 20px;
+}
+
+.wc-csv-importer .description {
+    margin-top: 5px;
+    color: #666;
+}
